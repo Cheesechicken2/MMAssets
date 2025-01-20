@@ -3,7 +3,11 @@ Poly's Asset Pack, Polybius, 1.0, , https://drive.google.com/uc?export=download&
 Intruder Custom Elevator Package, GrowingTurtle, 1.0, https://github.com/GrowingTurtle/Intruder-Custom-Elevator, https://github.com/GrowingTurtle/Intruder-Custom-Elevator/raw/refs/heads/main/IntruderElevatorCreatorPackage.unitypackage, https://raw.githubusercontent.com/Cheesechicken2/MMAssets/refs/heads/main/ElevatorPack.png?raw=true, Asset
 Intruder-Tools, Xixo, v1.0, https://github.com/goibacache/Intruder-Tools/ , https://github.com/goibacache/Intruder-Tools/releases/download/Stable/Intruder-Tools.unitypackage, https://github.com/Cheesechicken2/MMAssets/blob/main/IntruderTools.png?raw=true, Plugin
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 Intruder Shaders, Action, 1.0, ,https://raw.githubusercontent.com/Cheesechicken2/MMAssets/refs/heads/main/ActionManShaders.unitypackage , https://github.com/Cheesechicken2/MMAssets/blob/main/AllNOne.png?raw=true, Asset|Texture
+=======
+Intruder Shaders, ActionMan, 1.0, , https://raw.githubusercontent.com/Cheesechicken2/MMAssets/refs/heads/main/ActionManShaders.unitypackage , https://github.com/Cheesechicken2/MMAssets/blob/main/AllNOne.png?raw=true, Asset|Texture 
+>>>>>>> Stashed changes
 =======
 Intruder Shaders, ActionMan, 1.0, , https://raw.githubusercontent.com/Cheesechicken2/MMAssets/refs/heads/main/ActionManShaders.unitypackage , https://github.com/Cheesechicken2/MMAssets/blob/main/AllNOne.png?raw=true, Asset|Texture 
 >>>>>>> Stashed changes
